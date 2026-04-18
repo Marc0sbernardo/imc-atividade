@@ -1,0 +1,12 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+.peso {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25rem 0 0 15rem ;
+}
